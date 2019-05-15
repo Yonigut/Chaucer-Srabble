@@ -1,0 +1,32 @@
+Welcome to Scrabble, the popular word board game! Below are instructions on how to play:
+
+The first player combines two or more of his or her letters to form a word and places it on the board to read either across or down with one letter
+ on the center square. Diagonal words are not allowed.
+
+Complete your turn by clicking the “check turn” button. The program will then check to make sure that all the moves made during the turn were consistent
+with the official rules of the game, including a check for words that don’t appear in the Scrabble dictionary. If the turn passes all the rules test, the 
+“get tiles” button . Then draw as many new letters as you played; always keep seven letters on your rack, as long as there are enough tiles left in the bag.
+
+The second player adds one or more letters to those already played to form new words. All letters played on a turn must be placed in one row across or down 
+the board, to form at least one complete word. If, at the same time, they touch others letters in adjacent rows, those must also form complete words, crossword
+fashion, with all such letters. The player gets full credit for all words formed or modified on his or her turn. 
+
+No tile may be shifted or replaced after it has been played and scored.
+
+You may use a turn to exchange a single letter. To do this, simply choose a letter and then click “exchange tile.” This ends your turn.
+
+The score for each turn is the sum of the letter values in each word(s) formed or modified on that turn, plus the additional points obtained from placing 
+letters on Premium Squares, which double or triple the word or letter counts on the board.
+
+Letter and word premiums count only on the turn in which they are played. On later turns, letters already played on premium squares count at face value.
+
+When two or more words are formed in the same play, each is scored.  If a players plays seven tiles on a turn, they score a premium of 50 points after totaling 
+your score for their turn.
+
+When the game ends, each player's score is reduced by the sum of his or her unplayed letters. In addition, if a player has used all of his or her letters, the 
+sum of the other players' unplayed letters is added to that player's score.
+
+The game ends when all letters have been drawn and one player uses his or her last letter; or when all possible plays have been made. The player with the highest 
+final score wins the game. In case of a tie, the player with the highest score before adding or deducting unplayed letters wins.
+
+Enjoy!
